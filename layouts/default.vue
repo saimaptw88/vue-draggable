@@ -72,18 +72,13 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: 'WithRailsApp',
           to: '/',
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
-        },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'D&D',
-          to: '/dragDrop',
+          title: 'frontOnly',
+          to: '/onlyFront',
         },
         {
           icon: 'mdi-chart-bubble',
